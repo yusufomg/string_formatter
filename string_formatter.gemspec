@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
     object easily, using a nice little DSL.
   END
   s.authors     = ["Mark Josef"]
-  s.email       = 'McPhage@gmail.com'
+  s.email       = 'yusufomg55@gmail.com'
   s.files       = ["lib/string_formatter.rb",
                    "lib/format_evaluator.rb",
                    "lib/format_parser.rb",
